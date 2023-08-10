@@ -1,0 +1,85 @@
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\appsettings.json
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\E-commerce website Techcareer.staticwebassets.runtime.json
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\E-commerce website Techcareer.exe
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\E-commerce website Techcareer.deps.json
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\E-commerce website Techcareer.runtimeconfig.json
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\E-commerce website Techcareer.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\E-commerce website Techcareer.pdb
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.RazorAssemblyInfo.cache
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.RazorAssemblyInfo.cs
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\staticwebassets\msbuild.E-commerce website Techcareer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\staticwebassets\msbuild.build.E-commerce website Techcareer.props
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce website Techcareer.props
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-commerce website Techcareer.props
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\scopedcss\bundle\E-commerce website Techcareer.styles.css
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\scopedcss\projectbundle\E-commerce website Techcareer.bundle.scp.css
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\refint\E-commerce website Techcareer.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.pdb
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\ref\E-commerce website Techcareer.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Humanizer.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.csproj.CopyComplete
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\obj\Debug\net7.0\E-commerce website Techcareer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\deniz\OneDrive\Masaüstü\Techcareer e commerce website\E-commerce website Techcareer\E-commerce website Techcareer\bin\Debug\net7.0\Microsoft.AspNet.SessionState.SessionStateModule.dll

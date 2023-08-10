@@ -1,0 +1,25 @@
+﻿@model LoginModel
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-5">
+            <div class="card">
+                <div class="card-body py-md-4">
+                    <form _lpchecked="1" method="post" enctype="multipart/form-data" asp-action="Login">
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" placeholder="Email">
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" name="password" placeholder="Password">
+                            <p style="color:red;">@ViewBag.mes</p>
+                        </div>
+                        <div class="d-flex flex-row align-items-center justify-content-between">
+                            <button class="btn btn-primary" onclick="()=>{e.preventDefault();}" style="color:white!important;">Sıfırla</button>
+                            <button class="btn btn-primary" style="color:white!important;">Giriş Yap</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

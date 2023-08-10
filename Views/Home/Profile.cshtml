@@ -1,0 +1,119 @@
+﻿@model List<string>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-11">
+            <div class="card">
+                <div class=card-deck>
+                    <!-- First Card -->
+                    <div class="card">
+                        <div class="card-title">Ürün ekle:</div>
+                        <div class="card-body">
+                            <form method="post" enctype="multipart/form-data" asp-action="Prpofile">
+                                <div class="form-group">
+                                    <p>Ürün Adı:</p>
+                                    <input type="text" class="form-control" name="Prodname">
+                                </div>
+                                <div class="form-group">
+                                    <p>Stok:</p>
+                                    <input type="number" min="0" name="stock" class="form-control">
+                                </div>
+                                <div class="form-group">
+                                    <p>Fiyat:</p>
+                                    <input type="number" min="0" name="price" class="form-control">
+                                </div>
+                                <div class="form-group">
+                                    <p>Resim:</p>
+                                    <input type="file" name="image" class="form-control">
+                                </div>
+                                <div class="form-group">
+                                    <p>Kategori:</p>
+                                    <input type="text" name="category" class="form-control">
+                                </div>
+                                <div>
+                                    <p style="color:red">@ViewBag.general</p>
+                                </div>
+                                <div class="d-flex flex-row align-items-center justify-content-between">
+                                    <button class="btn btn-primary" style="color:white!important;">Sıfırla</button>
+                                    <button class="btn btn-primary" style="color:white!important;">Ürün Ekle</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- Second Card -->
+                    <div class="card">
+                        <div class="card-title">Ürün Sil:</div>
+                        <div class="card-body">
+                            <form method="post" enctype="multipart/form-data" asp-action="Prpofiledel">
+                                <div class="form-group">
+                                    <p>Silinecek Ürün</p>
+                                    <select name="itlist" class="form-select">
+                                    @if(Model!=null)
+                                    {
+                                        @foreach(string t in Model)
+                                        {
+                                            <option>@t</option>
+                                        }
+                                    }
+                                    </select>
+                                    <div class="form-group">
+                                        @ViewBag.messa
+                                    </div>
+                                    <div class="form-group">
+                                    <button class="btn btn-primary" style="color:white!important;">Ürün Sil</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- Third Card -->
+                    <div class="card">
+                        <div class="card-title">ürün güncelle:</div>
+                        <div class="card-body">
+
+                            <form method="post" enctype="multipart/form-data" asp-action="Propupd">
+                                <p>Güncellenicek Ürün:</p>
+                                <div  class="form-group">
+                                    <select name="updatedEl" class="form-select" aria-label="Default select example">
+                                        @if (Model != null)
+                                        {
+                                            @foreach (string t in Model)
+                                            {
+                                                <option>@t</option>
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                                    <div class="form-group">
+                                        <p>Ürün Adı:</p>
+                                        <input type="text" class="form-control" name="Prodname">
+                                    </div>
+                                    <div class="form-group">
+                                        <p>Stok:</p>
+                                        <input type="number" min="0" name="stock" class="form-control">
+                                    </div>
+                                    <div class="form-group">
+                                        <p>Fiyat:</p>
+                                        <input type="number" min="0" name="price" class="form-control">
+                                    </div>
+                                    <div class="form-group">
+                                        <p>Resim:</p>
+                                        <input type="file" name="image" class="form-control">
+                                    </div>
+                                    <div class="form-group">
+                                        <p>Kategori:</p>
+                                        <input type="text" name="category" class="form-control">
+                                    </div>
+                                    <div>
+                                    <div class="d-flex flex-row align-items-center justify-content-between">
+                                        <button class="btn btn-primary" style="color:white!important;">Sıfırla</button>
+                                        <button class="btn btn-primary" style="color:white!important;">Ürün Ekle</button>
+                                    </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

@@ -1,0 +1,28 @@
+﻿@{
+}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-5">
+            <div class="card">
+                <div class="card-body py-md-4">
+                    <form  method="post" asp-action="Adminpost">
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" placeholder="Email">
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" name="password" placeholder="Password">
+                        </div>
+                        <div class="form-group">
+                        <p style="color:red;">@ViewBag.message</p>
+                        </div>
+                        <div class="d-flex flex-row align-items-center justify-content-between">
+                            <button class="btn btn-primary" style="color:white!important;">Sıfırla</button>
+                            <button class="btn btn-primary" style="color:white!important;">Giriş Yap</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            </div>
+        </div>
+    </div>
